@@ -294,7 +294,7 @@ The solution enhances operational efficiency while ensuring scalability, maintai
 ## 👨‍💻 Author
 
 **Salesforce Implementation Project**  
-Academic / Industry Workflow Portfolio Project
+Harish C
 
 ---
 
